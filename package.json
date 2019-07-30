@@ -1,0 +1,24 @@
+{
+  "name": "learnyounode",
+  "version": "1.0.0",
+  "description": "Me learning node.js",
+  "main": "baby_steps.js",
+  "dependencies": {
+    "bl": "^3.0.0",
+    "strftime": "^0.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shalgrim/learnyounode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shalgrim/learnyounode/issues"
+  },
+  "homepage": "https://github.com/shalgrim/learnyounode#readme"
+}
