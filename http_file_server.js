@@ -6,6 +6,7 @@ var file_loc = process.argv[3];
 
 callback = function(request, response) {
     var stream = fs.createReadStream(file_loc);
+    response.writeHead(200, { 'content-type': 'text/plan'})
     stream.pipe(response);
 }
 
