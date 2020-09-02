@@ -4,7 +4,7 @@
   "description": "Me learning node.js",
   "main": "baby_steps.js",
   "dependencies": {
-    "bl": "^3.0.0",
+    "bl": "^3.0.1",
     "strftime": "^0.10.0"
   },
   "devDependencies": {},
